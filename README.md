@@ -1,7 +1,7 @@
 # ICDE 2025 - Adaptive Data and Task Joint Scheduling for Multi-Task Learning
 
 ## Citation
-This is the code for the 2024 ICDE paper - Towards Task-Conflicts Momentum-Calibrated Approach for Multi-task Learning
+This is the code for the 2025 ICDE paper - Adaptive Data and Task Joint Scheduling for Multi-Task Learning
 
 **Please cite our paper if you use the code:**
 ```
