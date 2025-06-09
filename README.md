@@ -1,4 +1,9 @@
-# ICDE 2025 - Adaptive Data and Task Joint Scheduling for Multi-Task Learning
+<h1 align="center">
+Adaptive Data and Task Joint Scheduling for Multi-Task Learning 
+IEEE International Conference on Data Engineering (ICDE) 2025
+</h1>
+
+
 
 ## Citation
 This is the code for the 2025 ICDE paper - Adaptive Data and Task Joint Scheduling for Multi-Task Learning
